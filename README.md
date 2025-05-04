@@ -2,12 +2,11 @@
 
 <table>
   <tr>
-    <td width="180">
+    <td width="180" valign="top">
       <img src="concept.png" alt="From Rattan to Bone" width="160">
     </td>
-    <td>
-      <strong>From Rattan to Bone</strong><br>
-      This repository contains files for a micromechanics project involving multiscale modeling of a rattan-derived porous ceramic material, designed for bone replacement applications. The work includes analytical and numerical homogenization methods applied at both micro and mesoscale levels to estimate effective stiffness for engineering design.
+    <td valign="top">
+      <p><strong>From Rattan to Bone</strong> – This repository contains files for a micromechanics project involving multiscale modeling of a rattan-derived porous ceramic material, designed for bone replacement applications. The work includes analytical and numerical homogenization methods applied at both micro and mesoscale levels to estimate effective stiffness for engineering design.</p>
     </td>
   </tr>
 </table>
