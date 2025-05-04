@@ -1,11 +1,17 @@
 # 🦴 Double-Scale Homogenization of a Porous Ceramic Scaffold for Bone Replacement
 
-<p align="left">
-  <img src="concept.png" alt="From Rattan to Bone" width="150" style="vertical-align:middle; margin-right:15px;">
-  <strong>From Rattan to Bone</strong><br>
-  This repository contains files for a micromechanics project involving multiscale modeling of a rattan-derived porous ceramic material, designed for bone replacement applications.  
-  The work includes analytical and numerical homogenization methods applied at both micro and mesoscale levels to estimate effective stiffness for engineering design.
-</p>
+<table>
+  <tr>
+    <td width="180">
+      <img src="concept.png" alt="From Rattan to Bone" width="160">
+    </td>
+    <td>
+      <strong>From Rattan to Bone</strong><br>
+      This repository contains files for a micromechanics project involving multiscale modeling of a rattan-derived porous ceramic material, designed for bone replacement applications. The work includes analytical and numerical homogenization methods applied at both micro and mesoscale levels to estimate effective stiffness for engineering design.
+    </td>
+  </tr>
+</table>
+
 
 
 ---
