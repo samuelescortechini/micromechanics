@@ -3,6 +3,8 @@
 This repository contains files for a micromechanics project involving multiscale modeling of a rattan-derived porous ceramic material, designed for bone replacement applications.  
 The work includes analytical and numerical homogenization methods applied at both micro and mesoscale levels to estimate effective stiffness for engineering design.
 
+![From Rattan to Bone](concept.png)
+
 ---
 
 ## 📂 Folder structure (recommended reading order)
